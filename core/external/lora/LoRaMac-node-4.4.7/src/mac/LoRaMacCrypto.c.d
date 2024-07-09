@@ -1,0 +1,21 @@
+C:\Users\1402p\AppData\Local\Temp\arduino\sketches\B80D53B89CF8052376AB71D46594AA5D\core\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacCrypto.c.o: \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacCrypto.c \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/cores/STM32WLE/external/lora/LoRaMac-node-4.4.7/src/boards/utilities.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\secure-element.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacCrypto.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacTypes.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/variants/WisDuo_RAK3172_Evaluation_Board/timer.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/cores/STM32WLE/external/STM32CubeWL/Utilities/timer/stm32_timer.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/cores/STM32WLE/external/STM32CubeWL/Drivers/CMSIS/Include/cmsis_compiler.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/cores/STM32WLE/external/STM32CubeWL/Drivers/CMSIS/Include/cmsis_gcc.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/variants/WisDuo_RAK3172_Evaluation_Board/utilities_conf.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/cores/STM32WLE/external/STM32CubeWL/Utilities/misc/stm32_mem.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/cores/STM32WLE/external/STM32CubeWL/Utilities/misc/stm32_tiny_vsnprintf.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/variants/WisDuo_RAK3172_Evaluation_Board/systime.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1/cores/STM32WLE/external/STM32CubeWL/Utilities/misc/stm32_systime.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacMessageTypes.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacHeaderTypes.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacCryptoNvm.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\secure-element-nvm.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacParser.h \
+ C:\Users\1402p\AppData\Local\Arduino15\packages\rak_rui\hardware\stm32\4.1.1\cores\STM32WLE\external\lora\LoRaMac-node-4.4.7\src\mac\LoRaMacSerializer.h
